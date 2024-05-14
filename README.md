@@ -14,6 +14,12 @@ Performed data cleaning, transformation, and integration to create a unified dat
 Dashboard Design and Layout: Designed the dashboard layout and structure, 
 identifying key metrics and visualizations to include for each category (campaigns, leads, opportunities, and accounts). Ensured an intuitive user interface for easy navigation and interpretation of data.
 
+Account Overview: Presented an overview of accounts, including total accounts, accounts not yet created, and working connections.
+Opportunity Overview: Summarized opportunities, including total opportunities, opportunities not created, and opportunities in proposal stage.
+By following these steps, we have created a comprehensive Eriko AI Dashboard in Power BI, providing valuable insights into campaign performance, 
+ead generation, opportunity management, and account status. This dashboard serves as a valuable tool for decision-makers to track progress, 
+identify trends, and make informed decisions to drive business growth.
+
 Campaign Analysis:
 Top Performing Campaigns: Identified and highlighted campaigns with the highest performance metrics such as conversion rates or ROI.
 Budget vs. Actual: Provided insights into campaign budget allocation versus actual expenditure, enabling budget optimization.
@@ -36,10 +42,4 @@ Campaign Composition: Provided insights into the composition of campaigns based 
 Total Spending: Summarized total campaign expenditure to gauge marketing investment.
 Leads Generated: Quantified the number of leads generated from campaigns to measure campaign success.
 Leads by Industry: Segmented leads by industry to tailor marketing efforts and sales strategies.
-
-Account Overview: Presented an overview of accounts, including total accounts, accounts not yet created, and working connections.
-Opportunity Overview: Summarized opportunities, including total opportunities, opportunities not created, and opportunities in proposal stage.
-By following these steps, we have created a comprehensive Eriko AI Dashboard in Power BI, providing valuable insights into campaign performance, 
-ead generation, opportunity management, and account status. This dashboard serves as a valuable tool for decision-makers to track progress, 
-identify trends, and make informed decisions to drive business growth.
 
