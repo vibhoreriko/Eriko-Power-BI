@@ -131,6 +131,24 @@ Opportunities Distribution by Campaign:
 "Opportunities Distribution by Campaign" illustrates the distribution of sales opportunities generated from different marketing campaigns.
 This analysis helps evaluate the effectiveness of each campaign in generating qualified leads and opportunities.
 
+Avg Opportunity Won:
+
+![image](https://github.com/vibhoreriko/Eriko-Power-BI/assets/144885104/f9cf52bd-efa8-47ff-a471-b407770a93aa)
+
+"Avg Opportunity Won" represents the average number of opportunities successfully closed or won over a specified period. 
+This metric provides insights into the efficiency of the sales process and the organization's ability to convert leads into customers. 
+
+Average of amount:
+
+![image](https://github.com/vibhoreriko/Eriko-Power-BI/assets/144885104/86b6a2c1-e964-4974-a201-12a712a483eb)
+
+"Average of amount" refers to the mean or average value of a numerical variable, typically associated with financial
+transactions such as sales revenue, deal size, or opportunity value. Calculating the average amount provides a benchmark
+for assessing performance, evaluating trends, and making informed business decisions.
+
+
+
+
 
 
 
